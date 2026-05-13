@@ -1,0 +1,37 @@
+[
+  {
+    "id": "first-contract",
+    "title": "Primer contrato",
+    "description": "Completa cualquier proyecto de cliente.",
+    "emoji": "🤝",
+    "secret": false
+  },
+  {
+    "id": "ui-guru",
+    "title": "Pixel Zen",
+    "description": "Gana UI Fixer con 3 estrellas.",
+    "emoji": "🧘",
+    "secret": false
+  },
+  {
+    "id": "golden-ears",
+    "title": "Orejas de oro",
+    "description": "Audio Match sin errores en una ronda.",
+    "emoji": "👂",
+    "secret": false
+  },
+  {
+    "id": "bug-whisperer",
+    "title": "Susurradora de bugs",
+    "description": "Aplasta 10 bugs en una partida de Bug Smasher.",
+    "emoji": "🪲",
+    "secret": false
+  },
+  {
+    "id": "studio-mogul",
+    "title": "Magnate del estudio",
+    "description": "Acumula 500 monedas en total.",
+    "emoji": "🏆",
+    "secret": true
+  }
+]

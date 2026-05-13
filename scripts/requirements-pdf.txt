@@ -1,0 +1,2 @@
+# Opcional: generar docs/RESUMEN_MULTIMEDIA_TYCOON.pdf
+reportlab>=4.0

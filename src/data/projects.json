@@ -1,0 +1,68 @@
+[
+  {
+    "id": "proj-game",
+    "title": "Dungeon Loot RPG",
+    "type": "video_game",
+    "emoji": "🎮",
+    "clientLine": "¡Necesito que el inventario no parezca escrito con crayón!",
+    "minigameId": "bug-smasher",
+    "rewardCoins": 40,
+    "rewardXp": 25,
+    "accentColor": "#FF8C42"
+  },
+  {
+    "id": "proj-music",
+    "title": "BeatDrop Studio",
+    "type": "music_app",
+    "emoji": "🎵",
+    "clientLine": "Los usuarios deben saber si es un drop o un clóset cayendo.",
+    "minigameId": "audio-match",
+    "rewardCoins": 35,
+    "rewardXp": 30,
+    "accentColor": "#7B68EE"
+  },
+  {
+    "id": "proj-stream",
+    "title": "Streamzilla",
+    "type": "streaming",
+    "emoji": "📺",
+    "clientLine": "Los botones están más pegados que chicle en el cine.",
+    "minigameId": "ui-fixer",
+    "rewardCoins": 30,
+    "rewardXp": 28,
+    "accentColor": "#FFD93D"
+  },
+  {
+    "id": "proj-animate",
+    "title": "Pixel Puppets",
+    "type": "animation",
+    "emoji": "🎬",
+    "clientLine": "La UI debe respirar… literalmente, con animaciones buenas.",
+    "minigameId": "ui-fixer",
+    "rewardCoins": 32,
+    "rewardXp": 26,
+    "accentColor": "#FF8C42"
+  },
+  {
+    "id": "proj-marketing",
+    "title": "HypeWave Ads",
+    "type": "marketing",
+    "emoji": "📣",
+    "clientLine": "Mi landing grita caos. ¿Puedes ordenarla sin gritar de vuelta?",
+    "minigameId": "ui-fixer",
+    "rewardCoins": 28,
+    "rewardXp": 22,
+    "accentColor": "#7B68EE"
+  },
+  {
+    "id": "proj-edu",
+    "title": "QuizNest Edu",
+    "type": "education",
+    "emoji": "📚",
+    "clientLine": "Los estudiantes confunden el botón de enviar con el de rendirse.",
+    "minigameId": "bug-smasher",
+    "rewardCoins": 38,
+    "rewardXp": 24,
+    "accentColor": "#FFD93D"
+  }
+]
