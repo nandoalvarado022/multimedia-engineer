@@ -1,0 +1,52 @@
+[
+  {
+    "id": "uf-1",
+    "problemTitle": "Texto diminuto",
+    "problemEmoji": "🔬",
+    "choices": [
+      { "id": "a", "label": "Texto 8px gris sobre gris", "isGood": false },
+      { "id": "b", "label": "Jerarquía clara y tamaño legible", "isGood": true },
+      { "id": "c", "label": "Todo en mayúsculas y apretado", "isGood": false }
+    ]
+  },
+  {
+    "id": "uf-2",
+    "problemTitle": "Paleta que duele",
+    "problemEmoji": "🌈",
+    "choices": [
+      { "id": "a", "label": "Neón sobre neón sin contraste", "isGood": false },
+      { "id": "b", "label": "Colores complementarios con WCAG en mente", "isGood": true },
+      { "id": "c", "label": "Solo un color porque 'minimal'", "isGood": false }
+    ]
+  },
+  {
+    "id": "uf-3",
+    "problemTitle": "Botones pegados",
+    "problemEmoji": "🧲",
+    "choices": [
+      { "id": "a", "label": "Touch targets de 20px pegados", "isGood": false },
+      { "id": "b", "label": "Espacio y área táctil amplia", "isGood": true },
+      { "id": "c", "label": "Un solo botón para todo", "isGood": false }
+    ]
+  },
+  {
+    "id": "uf-4",
+    "problemTitle": "Navegación laberinto",
+    "problemEmoji": "🌀",
+    "choices": [
+      { "id": "a", "label": "Menús ocultos sin pistas", "isGood": false },
+      { "id": "b", "label": "Flujo probado con usuarios reales", "isGood": true },
+      { "id": "c", "label": "Pop-ups infinitos para ayudar", "isGood": false }
+    ]
+  },
+  {
+    "id": "uf-5",
+    "problemTitle": "Feedback invisible",
+    "problemEmoji": "👻",
+    "choices": [
+      { "id": "a", "label": "Nada pasa al pulsar", "isGood": false },
+      { "id": "b", "label": "Estados hover/disabled/loading claros", "isGood": true },
+      { "id": "c", "label": "Animación de 10 segundos siempre", "isGood": false }
+    ]
+  }
+]

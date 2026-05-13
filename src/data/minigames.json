@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ui-fixer",
+    "title": "UI Fixer",
+    "subtitle": "Arregla interfaces caóticas",
+    "roleFocus": "UI/UX Designer",
+    "emoji": "🎨",
+    "description": "El cliente trajo una interfaz con problemas típicos: texto ilegible, colores que duelen y botones pegados. Elige las mejoras correctas.",
+    "estimatedMinutes": 2,
+    "difficultyStars": 2
+  },
+  {
+    "id": "audio-match",
+    "title": "Audio Match",
+    "subtitle": "Oído de radar",
+    "roleFocus": "Audio Designer",
+    "emoji": "🔊",
+    "description": "Escucha clips cortos y relaciónalos con etiquetas: explosión, clic, ambiente o victoria. Entrena tu oído como en postproducción.",
+    "estimatedMinutes": 2,
+    "difficultyStars": 3
+  },
+  {
+    "id": "bug-smasher",
+    "title": "Bug Smasher",
+    "subtitle": "Frontend en modo velocidad",
+    "roleFocus": "Frontend Developer",
+    "emoji": "🐛",
+    "description": "¡Bugs con mensajes de error absurdos aparecen en pantalla! Tócalos antes de que el tiempo se acabe.",
+    "estimatedMinutes": 2,
+    "difficultyStars": 3
+  }
+]

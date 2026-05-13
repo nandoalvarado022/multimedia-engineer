@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "description": "Catálogo mock tipo backend: describe assets locales reproducidos con expo-av.",
+    "engine": "expo-av Audio.Sound"
+  },
+  "effects": [
+    {
+      "id": "button_click",
+      "file": "button_click.wav",
+      "purpose": "Feedback al pulsar botones de UI."
+    },
+    {
+      "id": "success",
+      "file": "success.wav",
+      "purpose": "Respuesta correcta o logro menor."
+    },
+    {
+      "id": "error",
+      "file": "error.wav",
+      "purpose": "Error de jugador o tiempo agotado."
+    },
+    {
+      "id": "explosion",
+      "file": "explosion.wav",
+      "purpose": "Minijuego Audio Match — etiqueta explosión."
+    },
+    {
+      "id": "ambient_music_clip",
+      "file": "ambient_music.wav",
+      "purpose": "Minijuego Audio Match — ambiente musical."
+    },
+    {
+      "id": "victory",
+      "file": "victory.wav",
+      "purpose": "Minijuego Audio Match — fanfarria corta."
+    }
+  ],
+  "music": [
+    {
+      "id": "bg_music",
+      "file": "bg_music.wav",
+      "purpose": "Música de fondo en bucle (menú / estudio).",
+      "loop": true
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "frontend",
+    "title": "Frontend Developer",
+    "emoji": "💻",
+    "shortDescription": "Traduce diseños en interfaces reales que la gente puede usar.",
+    "tools": ["React", "CSS", "Accesibilidad", "DevTools"],
+    "funnyFact": "Si algo funciona en tu máquina pero no en producción, probablemente sea culpa del cache… o del sol.",
+    "difficulty": 4,
+    "relatedMinigameId": "bug-smasher"
+  },
+  {
+    "id": "ui-ux",
+    "title": "UI/UX Designer",
+    "emoji": "🎨",
+    "shortDescription": "Hace que todo sea usable, bonito y menos frustrante que un CAPTCHA infinito.",
+    "tools": ["Figma", "Investigación UX", "Prototipos", "Design systems"],
+    "funnyFact": "El botón más grande siempre gana… hasta que el usuario lo pulsa dos veces por ansiedad.",
+    "difficulty": 3,
+    "relatedMinigameId": "ui-fixer"
+  },
+  {
+    "id": "audio",
+    "title": "Audio Designer",
+    "emoji": "🔊",
+    "shortDescription": "Crea sonidos que cuentan historias sin una sola palabra.",
+    "tools": ["DAW", "Foley", "Middleware de audio", "Mezcla"],
+    "funnyFact": "Un 'click' satisfactorio puede tardar más en pulirse que una banda sonora completa.",
+    "difficulty": 4,
+    "relatedMinigameId": "audio-match"
+  },
+  {
+    "id": "motion",
+    "title": "Motion Designer",
+    "emoji": "✨",
+    "shortDescription": "Da vida a elementos con animación, ritmo y timing cinematográfico.",
+    "tools": ["After Effects", "Principios de animación", "Storyboards"],
+    "funnyFact": "Si la animación da mareo, quizás no sea 'cinemática'… quizás sea un bug en cámara lenta.",
+    "difficulty": 3,
+    "relatedMinigameId": null
+  },
+  {
+    "id": "game-dev",
+    "title": "Game Developer",
+    "emoji": "🕹️",
+    "shortDescription": "Programa mecánicas, físicas y momentos épicos de victoria.",
+    "tools": ["Motores de juego", "C# / C++ / GDScript", "Optimización"],
+    "funnyFact": "El primer boss suele ser más difícil que el último… mentira, es el tutorial el implacable.",
+    "difficulty": 5,
+    "relatedMinigameId": null
+  },
+  {
+    "id": "video-editor",
+    "title": "Video Editor",
+    "emoji": "🎞️",
+    "shortDescription": "Corta, monta y sincroniza para que la historia fluya.",
+    "tools": ["Premiere", "DaVinci", "Color grading", "Sonido"],
+    "funnyFact": "El cliente pidió 'solo un pequeño cambio' y desapareció una semana entera.",
+    "difficulty": 3,
+    "relatedMinigameId": null
+  },
+  {
+    "id": "artist-3d",
+    "title": "3D Artist",
+    "emoji": "🧊",
+    "shortDescription": "Modela mundos y personajes en tres dimensiones de pura magia poligonal.",
+    "tools": ["Blender", "Maya", "Texturas", "Iluminación"],
+    "funnyFact": "Un cubo puede convertirse en un dragón… si tienes paciencia y muchos vértices.",
+    "difficulty": 4,
+    "relatedMinigameId": null
+  }
+]
